@@ -1,0 +1,94 @@
+Build the project
+-Create a folder
+-Create different files (index and about)
+-Connect the files
+-Build the title section
+-List down the navbar
+-Move the home page to the left and the about page to the right
+-Insert the world image created on PicsArt color
+-Centre the image 
+-Adjust the paddings, margins for the body
+Introduction
+    -Insert a heading for INTRODUCTION
+    -Write the text for the introduction section on docs
+    -Insert the text on the website
+    -Insert table of contents for this section
+    -Create a <a> tag and connect to the different sections of the webpage
+    -Find and insert an image connected to the text
+-Alliances
+    -Insert a heading for ALLIANCES
+    -Find a template that could be traced for creating the pie chart for the alliances
+    -Insert the text on the pie char
+    -Insert the images on the website
+    -Insert captions for the image
+    -Write a text for alliances
+Conflicts
+    -Insert a heading for CONFLICTS
+    -Create a text on docs for conflicts
+    -Insert the text on the website
+    -Create different conflicts on PicsArt colour
+    -Insert the three different images on the website
+July Crisis
+    -Create a timeline for the july crisis
+Peacemaking
+    -Insert a heading for PEACEMAKING
+    -Write a text for the Treaty of Versailles
+    -Insert an image related to the treaty
+    -Insert the text for peacemaking
+Germany after WW2
+    -Insert a heading for GERMANY AFTER WW2
+    -Write a text for this topic on docs
+    -Insert two images related to the topic
+Copyright
+    -Insert two different href’s for sources and up (up will take to the start of the page)
+    -Create a copyright section
+    -Insert sources for the image similar to the website for personal project
+About section
+    -Insert the heading for the About section
+    -Insert a graphic image of a person
+    -Insert some text telling about the purpose of creating this website
+    -Insert copyright information 
+
+
+The First World War, otherwise known as the Great War lasted from 1914 to 1918. On this website, you can find information about the following topics:
+            <ol id="title-of-contents">
+                <li>
+                    <a href="#alliances">Alliances</a>
+                </li>
+                <li>
+                    <a href="#conflicts">Conflicts</a>
+                </li>
+                <li>
+                    <a href="#July-crisis">July Crisis</a>
+                </li>
+                <li>
+                    <a href="#treaty">Treaty of Versailles</a>
+                </li>
+                <li>
+                    <a href="germany-after-ww1">Germany after WW!</a>
+                </li>
+            </ol>
+        </div>
+
+
+
+        July Crisis
+28 june: Assassination
+Austria-Hungary found an opportunity to blame Serbia
+	Germany supported this at all costs (known as the Blank Cheque)
+23 july: Ultimatum from Austria-hungary to serbia: agreed to all except most extreme demands
+28 july: War declared on serbia
+Bombardment against belgrade
+30 july;: tsar ordered russia’s mobilization (things started to escalate)
+31 july: ultimatum frmo germany to france (france to be remain neutral for russo-german war)
+Ultimatum to russia - demobilization within 12 hrs
+(russia’s ultimatum expired, germany declared war, france rejected)
+2 august;: ultimatum from germany to beligium for right to send troops throught belgium
+4 aug:; britain declared war on germany because germany invaded belgim even though ultimatum was not aceepted.
+
+TREATY OF VERSAILLES
+
+After teh countries declared war on each other, it stretched until 1919. At the end, Germany was defeated and the main countries that were victorious were France and Britain. The leaders of Britain, France and the USA arrived at the conference in Paris, January 1919 to sign the preace treaty in Versailles. They felt pressured to punish Germany since the vicotrious countries felt strongly that Germany was responsible for the war. During the conference, there was disagreement as to what the main aim for the conference was (GCSE BOOK). Some felt that the aim was to punish Germany, others felt that the aim was to cripple Germany so that it could not start another war, many felt tthat the point of the Conference was to reward the winning contries while some others believed that the aim of the conference should be to extablish a just and lasting peace. (GCSE BOOK) At the end, the conference was ended with the creation of fourteen points that are shown in the picture to theright.
+
+GERMANY AFTER THE WAR
+
